@@ -7,7 +7,7 @@ public class Main {
 	
 	public static int menu() {
         System.out.println("----------------------------------");
-        System.out.println("--Sistema de Controle de Pessoas--");
+        System.out.println("--Sistema de Controle de Produtos--");
         System.out.println("----------------------------------");
         System.out.println("----------MENU DE OPÇÕES----------");
         System.out.println("----------------------------------");
